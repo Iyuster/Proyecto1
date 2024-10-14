@@ -12,7 +12,7 @@ public class Proyecto1{
 
         // muestra numero introducido
         System.out.println("El número introducido es: " + numero);
-
+ 
         // cierra escaner
         scanner.close();
 		
